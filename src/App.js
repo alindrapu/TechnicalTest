@@ -144,11 +144,11 @@ function MahasiswaPenilaian() {
           <tbody>{renderMahasiswaRows()}</tbody>
         </Table>
         <div style={{ textAlign: "center", marginTop: "1rem" }}>
-          <Button type="submit" variant="dark">
+          <Button className="mr-3" type="submit" variant="dark">
             Simpan
           </Button>
           {showDownloadButton && (
-            <Button variant="secondary" onClick={handleDownloadJson}>
+            <Button variant="success" onClick={handleDownloadJson}>
               Download JSON
             </Button>
           )}

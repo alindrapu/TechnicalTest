@@ -1,0 +1,50 @@
+{
+  "aspek_penilaian_1": {
+    "mahasiswa_1": 4,
+    "mahasiswa_2": 4,
+    "mahasiswa_3": 7,
+    "mahasiswa_4": 7,
+    "mahasiswa_5": 4,
+    "mahasiswa_6": 4,
+    "mahasiswa_7": 5,
+    "mahasiswa_8": 3,
+    "mahasiswa_9": 6,
+    "mahasiswa_10": 6
+  },
+  "aspek_penilaian_2": {
+    "mahasiswa_1": 6,
+    "mahasiswa_2": 5,
+    "mahasiswa_3": 4,
+    "mahasiswa_4": 4,
+    "mahasiswa_5": 4,
+    "mahasiswa_6": 4,
+    "mahasiswa_7": 7,
+    "mahasiswa_8": 3,
+    "mahasiswa_9": 5,
+    "mahasiswa_10": 10
+  },
+  "aspek_penilaian_3": {
+    "mahasiswa_1": 7,
+    "mahasiswa_2": 7,
+    "mahasiswa_3": 6,
+    "mahasiswa_4": 5,
+    "mahasiswa_5": 4,
+    "mahasiswa_6": 6,
+    "mahasiswa_7": 7,
+    "mahasiswa_8": 2,
+    "mahasiswa_9": 3,
+    "mahasiswa_10": 7
+  },
+  "aspek_penilaian_4": {
+    "mahasiswa_1": 8,
+    "mahasiswa_2": 5,
+    "mahasiswa_3": 4,
+    "mahasiswa_4": 5,
+    "mahasiswa_5": 4,
+    "mahasiswa_6": 6,
+    "mahasiswa_7": 7,
+    "mahasiswa_8": 5,
+    "mahasiswa_9": 5,
+    "mahasiswa_10": 8
+  }
+}
